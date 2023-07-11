@@ -4,7 +4,7 @@ from collections import Counter
 
 def maxAnagramSize(input):
 
-	# split input string separated by space
+	# split  u input string separated by space
 	input = input.split(" ")
 
 	# sort each string in given list of strings
